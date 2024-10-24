@@ -1,2 +1,5 @@
 # Supervised-ML---Regression-Notes
-My Personal Notes of machine learning
+## Linear Regression
+## Ridge Regression
+## Lasso Regression
+## Elastic net Regression
